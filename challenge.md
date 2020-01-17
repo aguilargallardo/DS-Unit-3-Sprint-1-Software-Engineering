@@ -268,7 +268,24 @@ career here, you'll have to answer the following:
   improve this situation?
 
 Answer both of these questions (baseline ~5 sentences) here in text.
-
+1.)I believe that it is important to chech how readable someone's code is. The whole
+  point of out sourcing your code is for others to use and if others arent able to
+  understand how to follow your code or read your code it beats the purpose of out sourcing
+  it in the first place. I know that if I built a package or some program that I want people
+  to use I want them to be able to read it. If someone tells me that it is difficult to
+  understand I would want them to tell me so that I can fix those discrepancies. 
+  
+  
+2.)A container by definition is a standard unit of software that packages up code and
+all its dependencies so the application runs quickly and reliably from one computing
+environment to another. For example a docker container allows us to do that and on a 
+linux enviroment so for anyone that is using different OS is still able to run their 
+programs. This helps make it easier to run code and preinstall/import packages that 
+what have otherwise not have been there if not in a container. 
+  
+  
+  
+  
 ### Part 8 - Turn it in!
 
 Provide all the files you wrote (`acme.py`, `acme_report.py`, and
